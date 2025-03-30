@@ -1,3 +1,13 @@
-# fuzzy-allocator
+## 🚀 What is Fuzzy Allocator?
 
-Properly allocate your portfolio and find the winners
+To find the best winners and to tell you WHEN the reversals will happen
+
+## 🚦 Running the Project
+
+## 🛠️ Technologies
+
+- `Python`
+
+## 💡 Improvements
+
+## 🐞 Issues
