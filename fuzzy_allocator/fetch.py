@@ -102,7 +102,6 @@ def main(tickers: List[str], period: str, interval: str) -> None:
 
 
 if __name__ == "__main__":
-    # For long trades, using daily ("1d") or 4-hour ("4h") intervals is typical.
     tickers = [
         "NVDA",
         "COST",
